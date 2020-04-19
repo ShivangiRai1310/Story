@@ -1,1 +1,2 @@
 This is chapter 2.
+This the new branch story for chap 2.
